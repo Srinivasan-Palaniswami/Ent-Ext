@@ -3,9 +3,10 @@
 
 # Dataset & Results
 ###  conll-2003 - F1 - 0.897
+###  Model has been trained on various open source domain datasets like: 
 ###  MIT-Restaurant - F1 - 0.710
 ###  Semeval - Drug-Drug Interaction - F1 - 0.872
-###  The BioCreative V CHEMDNER patents: CEMP  - F1 - 0.685
+###  CHEMDNER patents: CEMP  - F1 - 0.685
 ###  twitter_Dataset - F1 - 0.598
  
  # Network Model in paper
